@@ -16,5 +16,5 @@ python sagrada_generator.py
 
 ## Modification
 
-You can modify ```card.txt``` with these format and you can generate your own cards.
+You can modify ```card.txt``` with these format, and you can generate your own cards.
 
