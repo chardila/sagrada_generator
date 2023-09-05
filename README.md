@@ -1,7 +1,7 @@
 # Sagrada generator
 
 This script generate card for your PnP projects.
-The original idea came from (this bgg post)[https://boardgamegeek.com/filepage/219948/sagrada-card-generator] and I decide to migrate de PowerShell script to python script.
+The original idea came from (this bgg post)[https://boardgamegeek.com/filepage/219948/sagrada-card-generator] and Somebody, here (https://gitlab.com/jirsis/sagrada-generator) migrated de PowerShell script to python script. Here I cloned and modify a little
 
 ## Execution
 
