@@ -1,10 +1,20 @@
 from PIL import Image, ImageDraw, ImageFont
 import os
 
+REGULAR_TTF = 'UncialAntiqua-Regular.ttf'
+
+WHITE = 'white'
+
+OUTPUT_PATH = 'sagrada_output'
+
+CARDS_FILE = 'card.txt'
+
+BALL = "O.png"
+
 
 def create_card(label, parameter_file):
     # Load the font and create a blank image
-    font = ImageFont.truetype('UncialAntiqua-Regular.ttf', 42)
+    font = ImageFont.truetype(REGULAR_TTF, 42)
     img = Image.new('RGB', (1055, 934), color='black')
 
     text = label.strip()  # Clean up label
@@ -19,16 +29,16 @@ def create_card(label, parameter_file):
             pos = (25 * (column + 1) + width * column, 20 * (row + 1) + height * row)
             img.paste(tile_image, pos)
 
-    ball = Image.open("O.png")
+    ball = Image.open(BALL)
     ball_size = ball.size
     for n_ball in range(total_balls):
         img.paste(ball, (995 - n_ball * (ball_size[0] + 6), 820))
 
     file_card_name = parameter_file.readline().strip()
-    path_card = os.path.join("sagrada_output", file_card_name + ".png")  # Use os.path.join for paths
+    path_card = os.path.join(OUTPUT_PATH, file_card_name + ".png")  # Use os.path.join for paths
     canvas = ImageDraw.Draw(img)
     _, _, w, h = canvas.textbbox((0, 0), text, font=font)
-    canvas.text(((1055 - w) / 2, 810), text, font=font, fill='white')
+    canvas.text(((1055 - w) / 2, 810), text, font=font, fill=WHITE)
 
     img = img.resize((1063, 945), Image.LANCZOS)
     img.save(path_card, dpi=(300, 300))
@@ -40,8 +50,8 @@ def create_card(label, parameter_file):
 
 if __name__ == '__main__':
     # Use a context manager (with statement) to open and close the file automatically
-    with open('card.txt') as file:
-        if not os.path.exists('sagrada_output'):
-            os.mkdir('sagrada_output')
+    with open(CARDS_FILE) as file:
+        if not os.path.exists(OUTPUT_PATH):
+            os.mkdir(OUTPUT_PATH)
         create_card(file.readline(), file)
         print("✓ Finished")
