@@ -166,6 +166,13 @@ wb1ww
 w5wr1
 bw3w2
 12A
+Galapagos Jogos
+3
+6www4
+yw6ww
+wyw6w
+w4wwy
+12B
 RiaCon
 6
 ww1ww
@@ -180,3 +187,109 @@ wr1pw
 g3y5b
 5w2w6
 13B
+Game Boy Geek 2023
+6
+w5r4w
+6w3r5
+w2w3w
+2r6w1
+14A
+Game Boy Geek 2022
+6
+w3w4r
+3r6w5
+w2w5w
+2w6r1
+14B
+Game Boy Geek 2022
+3
+w3w42
+3r6w5
+w2w5w
+wwwww
+14C
+CuseCon
+3
+5wrw3
+w315w
+www1b
+ww6w4
+15A
+Floodgate games
+5
+b6p4w
+65wwb
+wpbw3
+ww21p
+15B
+Game Boy Geek 2021
+3
+w3w2w
+5w6w1
+w4r3w
+wwwwr
+16A
+Game Boy Geek 2021
+6
+w3w4w
+2w6w1
+w5w3w
+1w5r4
+16B
+2023 Gen Con Promo
+6
+wyrw6
+wrwyw
+w53w1
+w1pwy
+16C
+2023 Gen Con Promo
+6
+w3wgw
+wpww6
+rgw4y
+w4w5g
+17A
+Geekach Games
+6
+rw423
+6rw5w
+w4w3r
+w2rw1
+17B
+Gathering of Friends
+3
+w3www
+5wp1w
+6yrbg
+w21ww
+17C
+2022 Promo PAck Exclusive
+5
+2www4
+pw3wr
+wy6bw
+w1g5w
+18A
+Tantrum House
+3
+46ww1
+2rwwb
+wwbw5
+wwwr4
+18B
+Floodgate Games
+6
+46ww1
+2rwwb
+wwbw5
+b3wr4
+18C
+Fog of Love
+3
+w6p4w
+65wwb
+wpbw3
+www1w
+18D
+
