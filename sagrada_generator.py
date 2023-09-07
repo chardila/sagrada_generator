@@ -40,7 +40,7 @@ class CardGenerator:
         img = img.resize((1063, 945), Image.LANCZOS)
         img.save(path_card, dpi=(300, 300))
 
-        print(file_card_name + ":\t\t" + text)
+        print("{filename:>16s}:\t{cardname}".format(filename=file_card_name, cardname=text))
 
         next_label = parameter_file.readline().strip()
 
