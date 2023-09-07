@@ -8,19 +8,15 @@ I included the full list of sagrada promos and packs listed [here](https://board
 If you want to include more custom cards, you could add lines to the card.txt file following the next format for a new card:
 
 ### This is an example of a card
-`Vitraux
-
+```
+Vitraux
 5
-
 3wrw2
-
 wg6pw
-
 yw1wb
-
 w5w4w
-
-Promo1A`
+Promo1A
+```
 
 ### Description
 
