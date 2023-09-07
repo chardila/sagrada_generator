@@ -3,18 +3,17 @@ import os
 
 
 class CardGenerator:
-    def __init__(self, font_path, output_path, card_file, ball_image):
+    def __init__(self, font_path, output_path, card_file):
         self.font_path = font_path
         self.output_path = output_path
         self.card_file = card_file
-        self.ball_image = ball_image
+        self.ball_image = 'O.png'
 
     def create_card(self, label, parameter_file):
         font = ImageFont.truetype(self.font_path, 42)
         img = Image.new('RGB', (1055, 934), color='black')
 
         text = label.strip()
-        print(text)
 
         total_balls = int(parameter_file.readline())
 
@@ -40,6 +39,9 @@ class CardGenerator:
 
         img = img.resize((1063, 945), Image.LANCZOS)
         img.save(path_card, dpi=(300, 300))
+
+        print(file_card_name + ":\t\t" + text)
+
         next_label = parameter_file.readline().strip()
 
         if next_label:
@@ -56,7 +58,6 @@ if __name__ == '__main__':
     card_generator = CardGenerator(
         font_path='UncialAntiqua-Regular.ttf',
         output_path='sagrada_output',
-        card_file='card.txt',
-        ball_image='O.png'
+        card_file='card.txt'
     )
     card_generator.generate_cards()
