@@ -4,292 +4,312 @@ Vitraux
 wg6pw
 yw1wb
 w5w4w
-1A
+Promo1A
 Balboa Bay
 4
 12www
 gb41w
 wgb61
 63www
-1B
+Promo1B
 AlpenGlow
 6
 1b2y5
 r3p6g
 2y1b3
 g4r5p
-2A
+Promo2A
 Komorebi
 6
 12343
 21654
 32165
 43456
-2B
-International Tabletop Day
-3
-rwgyw
-wrygw
-wyrwg
-ywwrw
-3B
+Promo2B
 Flood Games
 5
 6wgw1
 w3ygw
 wr2yw
 1wrw6
-3A
+Promo3A
+International Tabletop Day
+3
+rwgyw
+wrygw
+wyrwg
+ywwrw
+Promo3B
 Board Game Geek
 3
 ywyw6
 wy2ww
 www4b
 15wbw
-4B
+Promo4A
 Board Game Geek
 6
 6wyw1
 wywyw
 wb2bw
 14b36
-4A
+Promo4B
 Watch it Played
 6
 wwwgw
 2rw6b
 w54g6
 1rw2b
-5A
+Promo5A
 Watch it Played
 3
 wwwww
 5r4g6
 6352b
 wwww1
-5B
+Promo5B
 Man vs Meeple
 3
 wbwpw
 bw6wp
 w2w3w
 ww5w1
-6B
+Promo6B
 Man vs Meeple
 6
 wbwpw
 b263p
 ww5ww
 p431b
-6A
+Promo6A
 Game Boy Geek
 3
 w3w4w
 5w6w1
 w2r3w
 wwwwr
-7B
+Promo7B
 Game Boy Geek
 6
 w3w4w
 5w6w1
 w2w3w
 1w5r5
-7A
+Promo7A
 Apollo
 4
 2w1ww
 wpy1g
 b6gww
 w5b6w
-8A
+Promo8A
 Godfather
 3
 2wyww
 wy1gp
 wg5bw
 wb62w
-8B
+Promo8B
 Man vs Meepl3
 3
 wbwpw
 pw6wb
 w2w3w
 ww5w1
-9B
+Promo9B
 Man vs Meepl3
 6
 wbwpw
 b263p
 wp5bw
 4w3w1
-9A
+Promo9A
 The Dice Tower
 3
 wrwbw
 bw6wr
 w2w3w
 ww5w1
-10B
-Man vs Meepl3
+Promo10B
+Floodgate Games
 6
 wrwbw
 r263b
 wb5rw
 4w3w1
-10A
+Promo10A
 We <3 our FLGS
 6
 yww3w
 wb5ww
 w43pr
 w31gp
-11A
+Promo11A
 We <3 our FLGS
 3
 yww3w
 wb5ww
 w43pr
 w3wwp
-11B
+Promo11B
 Tantrum House
 3
 wb1ww
 wwbw6
 w5wr1
 ww3w2
-12B
+Promo12B
 Tantrum House
 6
 wb1ww
 4wbw6
 w5wr1
 bw3w2
-12A
+Promo12A
 Galapagos Jogos
 3
 6www4
 yw6ww
 wyw6w
 w4wwy
-12B
-RiaCon
-6
-ww1ww
-w6p2w
-5b4r3
-wywgw
-13A
-RiaCon
+Promo13A
+Galapagos Jogos
 5
-w4w2w
-wr1pw
-g3y5b
-5w2w6
-13B
-Game Boy Geek 2023
-6
-w5r4w
-6w3r5
-w2w3w
-2r6w1
-14A
-Game Boy Geek 2022
-6
-w3w4r
-3r6w5
-w2w5w
-2w6r1
-14B
-Game Boy Geek 2022
-3
-w3w42
-3r6w5
-w2w5w
-wwwww
-14C
-CuseCon
-3
-5wrw3
-w315w
-www1b
-ww6w4
-15A
-Floodgate games
-5
-b6p4w
-65wwb
-wpbw3
-ww21p
-15B
+6www4
+yw6w5
+wyw6w
+w45wy
+Promo13B
 Game Boy Geek 2021
 3
 w3w2w
 5w6w1
 w4r3w
 wwwwr
-16A
+Promo14A
 Game Boy Geek 2021
 6
 w3w4w
 2w6w1
 w5w3w
 1w5r4
-16B
-2023 Gen Con Promo
-6
-wyrw6
-wrwyw
-w53w1
-w1pwy
-16C
-2023 Gen Con Promo
-6
-w3wgw
-wpww6
-rgw4y
-w4w5g
-17A
+Promo14B
 Geekach Games
 6
 rw423
 6rw5w
 w4w3r
 w2rw1
-17B
+Promo15A
+Geekach Games
+3
+rw423
+6rwww
+w4w3w
+w2rww
+Promo15B
+CuseCon
+3
+5wrw3
+w315w
+www1b
+ww6w4
+Promo16A
 Gathering of Friends
 3
 w3www
 5wp1w
 6yrbg
 w21ww
-17C
+Promo17A
+Gathering of Friends
+4
+w3ww2
+5wp1w
+6yrbg
+w21w6
+Promo17B
 2022 Promo PAck Exclusive
 5
 2www4
 pw3wr
 wy6bw
 w1g5w
-18A
+Promo18A
 Tantrum House
 3
 46ww1
 2rwwb
 wwbw5
 wwwr4
-18B
+Promo19A
 Floodgate Games
 6
 46ww1
 2rwwb
 wwbw5
 b3wr4
-18C
+Promo19B
 Fog of Love
 3
 w6p4w
 65wwb
 wpbw3
 www1w
-18D
-
+Promo20A
+Floodgate games
+5
+b6p4w
+65wwb
+wpbw3
+ww21p
+Promo20B
+Game Boy Geek 2022
+3
+w3w42
+3r6w5
+w2w5w
+wwwww
+Promo21A
+Game Boy Geek 2022
+6
+w3w4r
+3r6w5
+w2w5w
+2w6r1
+Promo21B
+Game Boy Geek 2023
+6
+w5r4w
+6w3r5
+w2w3w
+2r6w1
+Promo22A
+RiaCon
+5
+w4w2w
+wr1pw
+g3y5b
+5w2w6
+PromoFanExpA
+RiaCon
+6
+ww1ww
+w6p2w
+5b4r3
+wywgw
+PromoFanExpB
+2023 Gen Con Promo
+6
+wyrw6
+wrwyw
+w53w1
+w1pwy
+PromoGenCon2023A
+2023 Gen Con Promo
+6
+w3wgw
+wpww6
+rgw4y
+w4w5g
+PromoGenCon2023B
