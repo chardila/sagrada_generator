@@ -20,7 +20,7 @@ class CardGenerator:
         for row in range(4):
             row_line = parameter_file.readline().strip()
             for column in range(5):
-                tile_image = Image.open(f'{row_line[column]}.png')
+                tile_image = Image.open(f'{row_line[column].upper()}.png')
                 (height, width) = tile_image.size
                 pos = (25 * (column + 1) + width * column, 20 * (row + 1) + height * row)
                 img.paste(tile_image, pos)
