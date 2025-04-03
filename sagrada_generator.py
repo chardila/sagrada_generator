@@ -20,15 +20,15 @@ class CardGenerator:
         for row in range(4):
             row_line = parameter_file.readline().strip()
             for column in range(5):
-                tile_image = Image.open(f'{row_line[column].upper()}.png')
-                (height, width) = tile_image.size
-                pos = (25 * (column + 1) + width * column, 20 * (row + 1) + height * row)
-                img.paste(tile_image, pos)
+                with Image.open(f'{row_line[column].upper()}.png') as tile_image:
+                    (height, width) = tile_image.size
+                    pos = (25 * (column + 1) + width * column, 20 * (row + 1) + height * row)
+                    img.paste(tile_image, pos)
 
-        ball = Image.open(self.ball_image)
-        ball_size = ball.size
-        for n_ball in range(total_balls):
-            img.paste(ball, (995 - n_ball * (ball_size[0] + 6), 820))
+        with Image.open(self.ball_image) as ball:
+            ball_size = ball.size
+            for n_ball in range(total_balls):
+                img.paste(ball, (995 - n_ball * (ball_size[0] + 6), 820))
 
         file_card_name = parameter_file.readline().strip()
         path_card = os.path.join(self.output_path, f'{file_card_name}.png')
